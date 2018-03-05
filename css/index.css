@@ -1,0 +1,44 @@
+body {
+  background-image: url("https://s19.postimg.org/uu6rzs7o3/marcelo-leal-483685.jpg");
+  background-position: center center;
+  background-size: 100%;
+  background-repeat: no-repeat; 
+   background-attachment: fixed; 
+}
+
+.block {
+  float: left;
+  background-color: rgba(0, 0, 0, 0.9);
+  color: white;
+  padding: 20px;
+  width: 50%;
+  margin-right: auto;
+  margin-left: 50px;
+  margin-bottom: 50px; 
+  border-radius: 25px;
+}
+
+.spacer {
+  padding: 4%;
+}
+
+h2 {
+   display: inline-block; 
+}
+
+
+.btn {
+    display: inline-block;
+}
+
+#start #reset {
+  margin: 25px;
+}
+
+.custom {
+  color: white;
+  background-color: red;
+  padding: 7px;
+  font-size: 15px;
+  margin: 5px 5px 5px 5px;
+}
